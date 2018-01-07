@@ -1,4 +1,4 @@
-# This script can be used to obtain the desired input for GSEAPreranked algorithm for Broad's GSEA Desktop tool
+# These functions can be used to obtain the desired input for GSEAPreranked algorithm for Broad's GSEA Desktop tool
 # mat is the differentially expressed genes matrix obtained as an output from edgeR or limma
 # GSEA.P.value is assigned the sign of log Fold Change in order to achieve a weighted analysis and easy interpretation
 
